@@ -5,7 +5,7 @@
     "keywords": ["payment", "e-commerce"],
     "require": {
         "php": ">= 5.6.0",
-        "guzzle/guzzle": "3.9.2",
+        "guzzlehttp/guzzle": "^6.0.0",
         "symfony/event-dispatcher": "^2.7|^3.0|^4.0",
         "ext-SimpleXML": "*",
         "ext-curl" :"*"
